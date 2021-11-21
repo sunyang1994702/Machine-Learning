@@ -26,7 +26,7 @@ Feature selection:
 This step will select multiple machine learning models to train. 
 #### * Supervised learning
 Data with labeling 
-- Regression： LinearRegression, DecisionTreeRegression, 
+- Regression： LinearRegression, DecisionTreeRegression, RandomForestRegressor 
 - Classification: LogisticRegression, Support Vector Machine (SVM)
 #### * Unsupervised learning
 Data without labeling
