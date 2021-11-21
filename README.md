@@ -21,3 +21,11 @@ Feature selection:
 - Filter: variance threshold, pearsonr correlation, chi-square test  
 - Wrapper: recursive feature elimination  
 - Embedded: L1, L2  
+
+## Model training and Prediction
+Splitting the data by training set and testing set. Training model by training set and give prediction result by testing set. 
+#### * Supervised learning
+Regression, classification
+#### * Unsupervised learning
+clustering
+## Model evaluation
