@@ -23,7 +23,7 @@ Feature selection:
 - Embedded: L1, L2  
 
 ## Model training and Prediction
-Splitting the data by training set and testing set. Training model by training set and give prediction result by testing set. 
+This step will select multiple machine learning models to train. 
 #### * Supervised learning
 Data with labeling 
 - Regression  
@@ -31,4 +31,12 @@ Data with labeling
 #### * Unsupervised learning
 Data without labeling
 - Clustering
+
 ## Model evaluation
+There has two methods to select suitable model
+#### * Regularization   
+#### * Cross validation  
+Splitting the data by training set (60%), validation set (20%) and testing set (20%).
+- training set: model training  
+- validation set: model selection  
+- testing set: final model evaluation
