@@ -25,7 +25,10 @@ Feature selection:
 ## Model training and Prediction
 Splitting the data by training set and testing set. Training model by training set and give prediction result by testing set. 
 #### * Supervised learning
-Regression, classification
+Data with labeling 
+- Regression  
+- Classification  
 #### * Unsupervised learning
-clustering
+Data without labeling
+- Clustering
 ## Model evaluation
