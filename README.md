@@ -16,4 +16,7 @@ Nondimensionalization: standardization, min-max rescaling and normalization.
 Null value processing: Filling with mean, median  
 One-hot encoding: using get_dummies from pandas. feature: [A1, A2, A3] -> feature_A1:[1, 0, 0], feature_A2:[0, 1, 0], feature_A3:[0, 0, 1]  
 #### * Multiple features prcossing
-Sometimes, the number of feature in one dataset was very huge, need to do dimensionality reduction. Methods: PCA (principal component analysis) and LDA (linear discriminant analysis).  
+Dimensionality reduction: PCA (principal component analysis) and LDA (linear discriminant analysis).   
+Feature selection: - Filter: variance threshold, pearsonr correlation, chi-square test
+                   - Wrapper: recursive feature elimination
+                   - Embedded: L1, L2
