@@ -40,6 +40,6 @@ Splitting the data by training set (60%), validation set (20%) and testing set (
 - validation set: model selection  
 - testing set: final model evaluation   
 #### * Evaluation index
-- Regression: RMSE, R2
+- Regression: RMSE, R2, Cross-validation score
 - Clissification:
 - Clustering:
