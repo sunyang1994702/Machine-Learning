@@ -34,9 +34,12 @@ Data without labeling
 
 ## Model evaluation
 There has two methods to select suitable model
-#### * Regularization   
 #### * Cross validation  
 Splitting the data by training set (60%), validation set (20%) and testing set (20%).
 - training set: model training  
 - validation set: model selection  
-- testing set: final model evaluation
+- testing set: final model evaluation   
+#### * Evaluation index
+- Regression: RMSE, R2
+- Clissification:
+- Clustering:
