@@ -27,7 +27,7 @@ This step will select multiple machine learning models to train.
 #### * Supervised learning
 Data with labeling 
 - Regression： LinearRegression, DecisionTreeRegression, RandomForestRegressor 
-- Classification: LogisticRegression, Support Vector Machine (SVM)
+- Classification: LogisticRegression, Support Vector Machine (SVM), k-Nearest Neighbors, Naive Bayes, Boosting method
 #### * Unsupervised learning
 Data without labeling
 - Clustering
@@ -41,5 +41,5 @@ Splitting the data by training set (60%), validation set (20%) and testing set (
 - testing set: final model evaluation   
 #### * Evaluation index
 - Regression: RMSE, R2, Cross-validation score
-- Clissification: Precision, Recall, F1 value. 
+- Clissification: Accuarcy, Precision, Recall, F1 value. 
 - Clustering:
