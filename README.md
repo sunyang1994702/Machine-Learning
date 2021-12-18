@@ -29,7 +29,7 @@ Data with labeling
 - Regression: As for a dataset of relevant data, It can be used to figure out the prediction and forecating task.  
   Ex: Weather Forecasting, Market Forecasting, Estimating life expectancy, Housing price prediction, Advertising Popularity Predction and Population Growth Prediction.  
   Most frequently method "LinearRegression", "DecisionTreeRegression", "RandomForestRegressor".  
-  Reference: Why we use Linear Regression to do the prediction? [https://medium.com/@sunyang19940702/why-we-use-linear-regression-to-do-the-prediction-6220df181047]  
+  Reference: (Why we use Linear Regression to do the prediction?)[https://medium.com/@sunyang19940702/why-we-use-linear-regression-to-do-the-prediction-6220df181047]  
 - Classification: As for a dataset of irrelvant data, It can be used to figure out the classification task.  
   Ex: Image Classification, Customer Retention, Diagnostics and Identity Fraud Detection.  
   Most frequently method "LogisticRegression", "Support Vector Machine (SVM)", "k-Nearest Neighbors", "Naive Bayes", "Boosting method".
