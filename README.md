@@ -26,11 +26,13 @@ Feature selection:
 This step will select multiple machine learning models to train. 
 #### * Supervised learning
 Data with labeling 
-- Regression： LinearRegression, DecisionTreeRegression, RandomForestRegressor 
+- Regression: As for datasets of relevant data, It can be used to figure out the prediction and forecating task.  
+Most frequently method <LinearRegression> <DecisionTreeRegression> <RandomForestRegressor>  
 - Classification: LogisticRegression, Support Vector Machine (SVM), k-Nearest Neighbors, Naive Bayes, Boosting method
 #### * Unsupervised learning
 Data without labeling
-- Clustering
+- Clustering   
+#### * Reinforcement Learning
 
 ## Model evaluation
 There has two methods to select suitable model
