@@ -32,7 +32,7 @@ Data with labeling
   Reference: [Why we use Linear Regression to do the prediction?](https://medium.com/@sunyang19940702/why-we-use-linear-regression-to-do-the-prediction-6220df181047)
 - Classification: As for a dataset of irrelvant data, It can be used to figure out the classification task.  
   Ex: Image Classification, Customer Retention, Diagnostics and Identity Fraud Detection.  
-  Most frequently method "LogisticRegression", "Support Vector Machine (SVM)", "k-Nearest Neighbors", "Naive Bayes", "Boosting method".
+  Most frequently method "LogisticRegression", "Support Vector Machine (SVM)", "Decision Tree", "k-Nearest Neighbors", "Naive Bayes", "Boosting method".
 #### * Unsupervised learning
 Data without labeling
 - Clustering:  
