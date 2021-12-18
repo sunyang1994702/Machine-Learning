@@ -30,11 +30,11 @@ Data with labeling
   Ex: Weather Forecasting, Market Forecasting, Estimating life expectancy, Housing price prediction, Advertising Popularity Predction and Population Growth Prediction.  
   Most frequently method "LinearRegression", "DecisionTreeRegression", "RandomForestRegressor".
 - Classification: As for a dataset of irrelvant data, It can be used to figure out the classification task.  
-  Ex: Image Classification, Customer Retention, Diagnostics and Identity Fraud Detection. 
+  Ex: Image Classification, Customer Retention, Diagnostics and Identity Fraud Detection.  
   Most frequently method "LogisticRegression", "Support Vector Machine (SVM)", "k-Nearest Neighbors", "Naive Bayes", "Boosting method".
 #### * Unsupervised learning
 Data without labeling
-- Clustering   
+- Clustering:  
 #### * Reinforcement Learning
 - Games AI, Skill Acquisition, Learning Tasks, Real-time Decisions and Robot Navigation.  
 
