@@ -27,7 +27,8 @@ This step will select multiple machine learning models to train.
 #### * Supervised learning
 Data with labeling 
 - Regression: As for datasets of relevant data, It can be used to figure out the prediction and forecating task.  
-Most frequently method <LinearRegression> <DecisionTreeRegression> <RandomForestRegressor>  
+  Ex: Weather Forecasting, Market Forecasting, Estimating life expectancy, Housing price prediction, Advertising Popularity Predction and Population Growth Prediction.  
+  Most frequently method "LinearRegression", "DecisionTreeRegression", "RandomForestRegressor".
 - Classification: LogisticRegression, Support Vector Machine (SVM), k-Nearest Neighbors, Naive Bayes, Boosting method
 #### * Unsupervised learning
 Data without labeling
