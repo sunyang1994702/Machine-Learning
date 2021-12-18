@@ -26,14 +26,17 @@ Feature selection:
 This step will select multiple machine learning models to train. 
 #### * Supervised learning
 Data with labeling 
-- Regression: As for datasets of relevant data, It can be used to figure out the prediction and forecating task.  
+- Regression: As for a dataset of relevant data, It can be used to figure out the prediction and forecating task.  
   Ex: Weather Forecasting, Market Forecasting, Estimating life expectancy, Housing price prediction, Advertising Popularity Predction and Population Growth Prediction.  
   Most frequently method "LinearRegression", "DecisionTreeRegression", "RandomForestRegressor".
-- Classification: LogisticRegression, Support Vector Machine (SVM), k-Nearest Neighbors, Naive Bayes, Boosting method
+- Classification: As for a dataset of irrelvant data, It can be used to figure out the classification task.  
+  Ex: Image Classification, Customer Retention, Diagnostics and Identity Fraud Detection. 
+  Most frequently method "LogisticRegression", "Support Vector Machine (SVM)", "k-Nearest Neighbors", "Naive Bayes", "Boosting method".
 #### * Unsupervised learning
 Data without labeling
 - Clustering   
 #### * Reinforcement Learning
+- Games AI, Skill Acquisition, Learning Tasks, Real-time Decisions and Robot Navigation.  
 
 ## Model evaluation
 There has two methods to select suitable model
