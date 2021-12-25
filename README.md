@@ -15,8 +15,7 @@ The step is extracting and transforming the most relevant features from raw data
 Nondimensionalization: standardization, min-max rescaling and normalization.  
 Null value processing: Filling with mean, median  
 One-hot encoding: using get_dummies from pandas. feature: [A1, A2, A3] -> feature_A1:[1, 0, 0], feature_A2:[0, 1, 0], feature_A3:[0, 0, 1]  
-#### * Multiple features prcossing
-Dimensionality reduction: PCA (principal component analysis) and LDA (linear discriminant analysis).   
+#### * Multiple features prcossing  
 Feature selection:   
 - Filter: variance threshold, pearsonr correlation, chi-square test  
 - Wrapper: recursive feature elimination  
@@ -34,8 +33,9 @@ Data with labeling
   Ex: Image Classification, Customer Retention, Diagnostics and Identity Fraud Detection.  
   Most frequently method "LogisticRegression", "Support Vector Machine (SVM)", "Decision Tree", "k-Nearest Neighbors", "Naive Bayes", "Boosting method".
 #### * Unsupervised learning
-Data without labeling
-- Clustering:  
+Data without labeling  
+- Dimensionality reduction: PCA (principal component analysis) and LDA (linear discriminant analysis).   
+- Clustering:   
 #### * Reinforcement Learning
 - Games AI, Skill Acquisition, Learning Tasks, Real-time Decisions and Robot Navigation.  
 
